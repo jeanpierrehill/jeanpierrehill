@@ -9,4 +9,4 @@ in the spirit of gtfol, i'm learning github.  lfg!
 
 - 🔭 I’m currently working on fundraising for unrealai.co
 - 🌱 I’m currently learning github
-- ⚡ Fun fact: I say 
+- ⚡ Fun fact: I say y'all
